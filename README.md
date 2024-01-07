@@ -11,7 +11,6 @@
 ### Languages and Tools:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
-[<img src="https://cdn.worldvectorlogo.com/logos/next-1.svg" alt="NEXT.js" width="40" height="40" style="display:inline-block;">](https://nextjs.org/")&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://reactjs.org/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="display:inline-block; margin-right: 10px;">](https://www.w3schools.com/css/)&nbsp;&nbsp;
